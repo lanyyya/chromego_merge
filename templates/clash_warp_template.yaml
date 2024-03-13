@@ -28,10 +28,10 @@ proxies:
 
   - name: WARP
     type: wireguard
-    server: 162.159.195.80
-    port: 864
-    ip: 172.16.0.6
-    ipv6: 2606:4700:110:8479:767a:e640:3c13:1766
+    server: 188.114.97.7
+    port: 987
+    ip: 172.16.0.2
+    ipv6: 2606:4700:110:8a36:df92:102a:9602:fa18
     private-key: YFYOAdbw1bKTHlNNi+aEjBM3BO7unuFC5rOkMRAz9XY=
     public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
     udp: true
